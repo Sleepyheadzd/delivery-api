@@ -33,5 +33,5 @@ Sistema de delivery desenvolvido com Spring Boot e Java 26.
 - Profile: development
 
 ## 👨‍💻 Desenvolvedor
-Sleepy - Fat cursin arquitetura de sistemas
+Sleepy - Turma 04018 Fat cursin arquitetura de sistemas
 Desenvolvido com JDK 26 e Spring Boot 3.4.x
